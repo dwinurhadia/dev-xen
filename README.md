@@ -6,7 +6,7 @@ Xen is an open source virtual machine monitor for x86-compatible computers. XenS
 apt-get install xen-linux-system
 
 xen-create-image --size=20G \
---swap=512M \
+--swap=1024M \
 --memory=1G \
 --ip=10.13.245.72 \
 --netmask=255.255.0.0 \
