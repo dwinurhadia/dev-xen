@@ -7,7 +7,7 @@ apt-get install xen-linux-system
 
 xen-create-image --size=20G \
 --swap=1024M \
---memory=1G \
+--memory=3G \
 --ip=10.13.245.72 \
 --netmask=255.255.0.0 \
 --gateway=10.13.1.254 \
