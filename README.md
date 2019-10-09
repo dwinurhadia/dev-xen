@@ -22,4 +22,4 @@ xen-create-image --size=20G \
 A short snippet describing the license (Xen, etc.)
 # this is nice readme
 
-#hacktoberfest
+#Adipati
